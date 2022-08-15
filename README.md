@@ -14,7 +14,8 @@ F1TENTH Gym 환경을 차량에 이식하기 용이하기 하기 위하여 ROS �
 * ROS Melodic
 * Python 2.7
 
-**ROS Melodic (or later)와 Docker가 설치 되어 있어야 합니다. 설치 방법은 [Docker 설치방법](https://docs.docker.com/engine/install/ubuntu/), [ROS 설치방법]() 을 따라 설치하여 주시길 바랍니다.**
+**ROS Melodic (or later)와 Docker가 설치 되어 있어야 합니다. 설치 방법은 [Docker 설치방법](https://docs.docker.com/engine/install/ubuntu/), [ROS 설치방법](http://wiki.ros.org/melodic/Installation/Ubuntu![image](https://user-images.githubusercontent.com/78462512/184624027-05e8885e-7875-4cab-a4ab-f8179434d3a7.png)
+) 을 따라 설치하여 주시길 바랍니다.**
 
 ### Installation
 1. catkin_ws/src 폴더에 해당 Repository 를 Clone 합니다
